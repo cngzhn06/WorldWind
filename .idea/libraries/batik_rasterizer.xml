@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="batik-rasterizer">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/worldwind-v2.2.1/lib-external/batik/batik-rasterizer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

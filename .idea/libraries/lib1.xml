@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/worldwind-v2.2.1/dist/lib/jogl-all.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/worldwind-v2.2.1/dist/lib/junit-4.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/worldwind-v2.2.1/dist/lib/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/worldwind-v2.2.1/dist/lib/gdal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

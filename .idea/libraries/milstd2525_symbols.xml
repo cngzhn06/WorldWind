@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="milstd2525-symbols">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/worldwind-v2.2.1/testData/milstd2525-symbols.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
